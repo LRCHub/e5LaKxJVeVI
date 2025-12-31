@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "綺羅キラー（feat. Mori Calliope）",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-31T11:46:07.371512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "綺羅キラー (feat. Mori Calliope)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_綺羅キラー_(feat._Mori_Calliope)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "綺羅キラー [feat. Mori Calliope]",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_綺羅キラー_[feat._Mori_Calliope]_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "綺羅キラー (feat. Mori Calliope)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_綺羅キラー_(feat._Mori_Calliope)_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
