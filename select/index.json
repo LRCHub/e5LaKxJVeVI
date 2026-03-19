@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "綺羅キラー（feat. Mori Calliope）",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-31T11:47:14.506852Z",
+  "createdAt": "2026-03-19T11:27:51.341853Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,6 +27,15 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_綺羅キラー_(feat._Mori_Calliope)_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "綺羅キラー（feat. Mori Calliope）",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/localdb_01_綺羅キラー(feat._Mori_Calliope)_ずっと真夜中でいいのに。.lrc",
+      "repo_name": "e5LaKxJVeVI"
     }
   ]
 }
